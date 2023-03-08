@@ -1,6 +1,6 @@
 - 👋 Hello, I’m Sandeep Lakka
-- 👀 Interested in Java based frameworks and tools to ease the life of Devs
-- 💞️ Looking to make my hands dirty by collaborating on open source projects which are used in day-to-day activities and yet are in need of bug-fixes and enhancements
+- 👀 Interested in Java,Python based frameworks and tools
+- 💞️ Looking to collaborate on open source projects which are used in day-to-day activities
 - 📫 Reach me via sandeeplakka@outlook.com (Mail) and sandeep_lakka (Skype)
 
 <!---
